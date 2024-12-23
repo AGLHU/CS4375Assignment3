@@ -1,7 +1,9 @@
 Object detection using YOLO
 
 example of running code:
-''python train.py''
+
+``python train.py``
 
 after training:
-''python test.py''
+
+``python test.py``
